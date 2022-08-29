@@ -1,0 +1,46 @@
+.travel_main-sect {
+    border: 1px solid black
+}
+
+.travel_main-sect img {
+    width: 100%
+}
+
+.travel_main-sect p {
+    size: 30px;
+}
+
+.travel_main-sect h5, .travel_main-sect p {
+    margin: 20px;
+}
+
+#contact iframe{
+    width: 100%;
+}
+
+/*After this section of code there is the code for the movies section */
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_text span {
+    color: orange;
+}
+
+.movie_head i {
+    float: right;
+}
+
+/*This section is the stylesheet for the book section and the footer section*/
+.book {
+    margin-bottom: 20px;
+}
+
+#contact iframe{
+    width: 100%
+}
+
